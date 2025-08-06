@@ -26,6 +26,14 @@ A modern, responsive scientific calculator built using **HTML**, **CSS**, and **
 
 ---
 
+## 📸 Live Demo & Preview
+
+Check out the live version of the Scientific Calculator:
+
+[🔗 sehar024.github.io/Calculator/](https://sehar024.github.io/Calculator/)
+
+---
+
 ## 📁 Folder Structure
 
 📦 scientific-calculator
@@ -47,13 +55,11 @@ A modern, responsive scientific calculator built using **HTML**, **CSS**, and **
 4. Start calculating!
    
 ## 📌 TODO / Future Improvements
-Add keyboard support (type numbers and press Enter)
 
-Scientific functions (sin, cos, tan, log, etc.)
-
-Dark Mode toggle
-
-History panel
+- Add keyboard support (type numbers and press Enter)
+- Scientific functions (sin, cos, tan, log, etc.)
+- Dark Mode toggle
+- History panel
 
 ## 🤝 Contributing
 Pull requests are welcome. If you'd like to contribute, please fork the repo and use a feature branch.
@@ -63,13 +69,11 @@ Feel free to open an issue for feedback or suggestions.
 This project is open source under the MIT License.
 
 ## 🙌 Acknowledgements
-UI inspiration from real-world calculators.
-
-Gradient design based on soft pastel themes.
+- UI inspiration from real-world calculators.
+- Gradient design based on soft pastel themes.
 
 ---
 
 > **Created with ❤️ by [Sehar024](https://github.com/Sehar024)** 
-
 
 ---
